@@ -12,6 +12,8 @@ This root directory has "boost_1_56_0" and "libjdkmidi-20051014" directories.
 I only use src and include directories' contents in libjdkmidi-20051014 directory. 
 I only use lexical_cast from boost library. 
 
+I haven't compiled in Windows yet. 
+
 Unfortunately jdk midi c++ library is under GPL license. 
 There is no way I can change it. 
 I would expect it to be under LGPL license as least. 
@@ -19,4 +21,3 @@ I would expect it to be under LGPL license as least.
 USAGE:
 
 ./midi_track_extractor INFILE.mid OUTFILE.mid
-
