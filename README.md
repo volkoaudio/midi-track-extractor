@@ -16,3 +16,7 @@ Unfortunately jdk midi c++ library is under GPL license.
 There is no way I can change it. 
 I would expect it to be under LGPL license as least. 
 
+USAGE:
+
+./midi_track_extractor INFILE.mid OUTFILE.mid
+
